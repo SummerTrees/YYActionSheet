@@ -1,2 +1,2 @@
-# YYActionSheey
+# YYActionSheet
 自定义简易的ActionSheet，增加一个title，满足对ActionSheet增加标题的需求
